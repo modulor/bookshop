@@ -1,0 +1,12 @@
+.book_row{
+	padding: 15px 0;
+	border-bottom: 1px solid #eee;
+}
+
+.book_row:first-child{
+	padding-top: 0;
+}
+
+.book_row:last-child{
+	border-bottom: none;
+}
